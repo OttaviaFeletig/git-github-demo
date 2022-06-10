@@ -12,6 +12,7 @@ GitHub ---> internet hosting provider for version control using Git
 - git add .: add all files in the staging phase
 - git commit -m "commit message": committing the files with a message
 - git status: check the status of your git folder
+- git log: check all commits
 - git branch <name-of-your-branch>: create a new branch
 - git checkout <name-of-your-branch>: switch to a different branch
 - git merge <name-of-your-branch>: when you are in master, merge your branch to the master branch
